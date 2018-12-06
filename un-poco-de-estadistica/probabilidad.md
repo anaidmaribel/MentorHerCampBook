@@ -6,4 +6,7 @@ aunque las condiciones iniciales en las que se produce la experiencia sean las m
 Estos fenómenos, denominados aleatorios, se ven afectados por la incertidumbre. En el lenguaje 
 habitual, frases como "probablemente...", "es poco probable que...", "hay muchas posibilidades 
 de que..." hacen referencia a esta incertidumbre.
+## 2. DEFINICIÓN
+La probabilidad **P** de que suceda un evento **S** de un total de **n** casos posibles igualmente probables es igual a la razón entre el número de ocurrencias **h** y **n**.
 
+     $\frac{\alpha}{2}$
