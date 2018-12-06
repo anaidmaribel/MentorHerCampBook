@@ -12,7 +12,7 @@ La probabilidad **P** de que suceda un evento **S** de un total de **n** casos p
      $\frac{\alpha}{2}$
 
 Donde:
-     **P** = Probabilidad del Evento S.
-     **S** = Evento.
-     **h** = Casos favorables.
-     **n** = Total de intentos.
+     - **P** = Probabilidad del Evento S.
+     - **S** = Evento.
+     - **h** = Casos favorables.
+     - **n** = Total de intentos.
