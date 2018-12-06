@@ -3,7 +3,9 @@
 En la vida cotidiana aparecen muchas situaciones en las que los resultados observados son diferentes, 
 aunque las condiciones iniciales en las que se produce la experiencia sean las mismas. Por ejemplo:
   - Lanzar una moneda unas veces resultará cara y en otras cruz. 
+  
 ![alt text](dados.png)
+
 Estos fenómenos, denominados aleatorios, se ven afectados por la incertidumbre. En el lenguaje 
 habitual, frases como "probablemente...", "es poco probable que...", "hay muchas posibilidades 
 de que..." hacen referencia a esta incertidumbre.
