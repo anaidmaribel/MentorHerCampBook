@@ -7,6 +7,12 @@ Estos fenómenos, denominados aleatorios, se ven afectados por la incertidumbre.
 habitual, frases como "probablemente...", "es poco probable que...", "hay muchas posibilidades 
 de que..." hacen referencia a esta incertidumbre.
 ## 2. DEFINICIÓN
-La probabilidad **P** de que suceda un evento **S** de un total de **n** casos posibles igualmente probables es igual a la razón entre el número de ocurrencias **h** y **n**.
+La probabilidad **P** de que suceda un evento **S** de un total de **n** casos posibles igualmente probables es igual a la razón entre el número de ocurrencias **h** entre **n**.
 
      $\frac{\alpha}{2}$
+
+Donde:
+     **P** = Probabilidad del Evento S.
+     **S** = Evento.
+     **h** = Casos favorables.
+     **n** = Total de intentos.
