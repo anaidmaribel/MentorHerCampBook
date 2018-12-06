@@ -9,7 +9,7 @@ de que..." hacen referencia a esta incertidumbre.
 ## 2. DEFINICIÓN
 La probabilidad **P** de que suceda un evento **S** de un total de **n** casos posibles igualmente probables es igual a la razón entre el número de ocurrencias **h** entre **n**.
 
-     $\frac{\alpha}{2}$
+     P = \frac{h}{n}
 
 Donde:
 - **P** = Probabilidad del Evento S.
