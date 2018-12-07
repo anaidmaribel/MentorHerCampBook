@@ -19,3 +19,11 @@ Donde:
 - **S** = Evento.
 - **h** = Casos favorables.
 - **n** = Total de intentos.
+
+**Ejemplo**
+
+1.  Probabilidad de que al lanzar un dado salga un **número par**: en este caso los casos favorables (f) son tres (que salga el dos, el cuatro o el seis), mientras que los casos posibles (n) siguen siendo seis.
+
+Aplicando en la formúla:   P = \frac{h}{n} 
+                           P = \frac{3}{6} 
+                           P = \frac{1}{2} = 50 % de probabilidad de que ocurra.
