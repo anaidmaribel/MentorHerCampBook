@@ -24,13 +24,13 @@ Donde:
 
 1.  Probabilidad de que al lanzar un dado salga un **número par**: en este caso los casos favorables (h) son tres (que salga el dos, el cuatro o el seis), mientras que los casos posibles (n) siguen siendo seis.
 
-Aplicando en la formúla:   P = \frac{h}{n} 
-                           P = \frac{3}{6} 
-                           P = \frac{1}{2} = 50 % de probabilidad de que ocurra.
+  Aplicando en la formúla:   P = \frac{h}{n} 
+                             P = \frac{3}{6} 
+                             P = \frac{1}{2} = 50 % de probabilidad de que ocurra.
                            
 2. Probabilidad de que al lanzar un dado salga un número menor que 5: en este caso tenemos cuatro casos favorables (h) (que salga el uno, el dos, el tres o el cuatro), frente a los seis casos posibles.
 
-Aplicando en la formúla:   P = \frac{h}{n} 
-                           P = \frac{4}{6} 
-                           P = \frac{2}{3} = 66,6 % de probabilidad de que ocurra.
+  Aplicando en la formúla:   P = \frac{h}{n} 
+                             P = \frac{4}{6} 
+                             P = \frac{2}{3} = 66,6 % de probabilidad de que ocurra.
 ## 3. 
