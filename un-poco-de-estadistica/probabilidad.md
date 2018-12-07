@@ -27,6 +27,7 @@ Donde:
 Aplicando en la formúla:   P = \frac{h}{n} 
                            P = \frac{3}{6} 
                            P = \frac{1}{2} = 50 % de probabilidad de que ocurra.
+                           
 2. Probabilidad de que al lanzar un dado salga un número menor que 5: en este caso tenemos cuatro casos favorables (h) (que salga el uno, el dos, el tres o el cuatro), frente a los seis casos posibles.
 
 Aplicando en la formúla:   P = \frac{h}{n} 
