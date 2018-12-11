@@ -4,3 +4,4 @@ En este capitulo aprenderas:
 2. Probabilidad Clasica
 3. Eventos EXcluyentes
 4. Probabilidad Condicional
+5. Eventos independientes
